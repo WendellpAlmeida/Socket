@@ -1,5 +1,5 @@
 # Socket
-Verificador de portas abertas feito em linguagem C  
+Realiza a validação das 65535 portas e informa se estão abertas. (linguagem C ) 
 
 1- compilar 
 gcc socket.c -o socket
