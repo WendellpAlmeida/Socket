@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netdb.h>
-#include <arpa/inet.h>   // inet_addr
-#include <unistd.h>      // close
+#include <arpa/inet.h>   
+#include <unistd.h>      
 
 int main(int argc, char *argv[]){
     int meusocket;
